@@ -1,7 +1,7 @@
 ### 👋 Bem-vindo ao meu perfil do GitHub!
 
-🔭 Atualmente estou me dedicando a [Formação Full Stack Júnior].
+🔭 Atualmente estou me dedicando à uma formação para Desenvolvedor Full Stack Júnior.
 
-🌱 Estou aprendendo [Java].
+🌱 Estou aprendendo, em especial, Java.
 
-😄 Pronomes: [ela/dela].
+😄 Pronomes: ela/dela.
