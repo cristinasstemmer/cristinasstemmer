@@ -4,4 +4,6 @@
 
 🌱 Estou aprendendo, em especial, Java.
 
+📚 Curso Graduação Tecnológica em Análise e Desenvolvimento de Sistemas.
+
 😄 Pronomes: ela/dela.
