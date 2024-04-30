@@ -9,3 +9,5 @@
 😄 Pronomes: ela/dela.
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinasstemmer&layout=compact&theme=dracula)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css&perline=3)](https://skillicons.dev)
