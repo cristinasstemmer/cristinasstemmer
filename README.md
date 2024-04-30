@@ -7,3 +7,5 @@
 📚 Curso Graduação Tecnológica em Análise e Desenvolvimento de Sistemas.
 
 😄 Pronomes: ela/dela.
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
