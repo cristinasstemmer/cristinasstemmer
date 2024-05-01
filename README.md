@@ -4,11 +4,11 @@
 
 <br>
 
-🔭 Atualmente estou me dedicando à uma formação de Desenvolvedor Full Stack Júnior.
+#### 🔭 Atualmente estou me dedicando à uma formação de Desenvolvedor Full Stack Júnior.
 
-📚 Curso Graduação Tecnológica em Análise e Desenvolvimento de Sistemas.
+#### 📚 Curso Graduação Tecnológica em Análise e Desenvolvimento de Sistemas.
 
-🌱 Estou aprendendo Java, React.
+#### 🌱 Estou aprendendo Java, React.
 
 </div> <br>
 
