@@ -6,7 +6,8 @@
 
 📚 Curso Graduação Tecnológica em Análise e Desenvolvimento de Sistemas.
 
-<div>
+<div> <div align="center">
+
   
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinasstemmer&theme=tokyonight)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristinasstemmer&show_icons=true&theme=tokyonight)
@@ -14,6 +15,3 @@
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,html,css&perline=10)](https://skillicons.dev) <img aling="center">
 
 </div>
-
-<div align="center">
-  
