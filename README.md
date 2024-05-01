@@ -1,4 +1,4 @@
-### 👋 Bem-vindo ao meu perfil do GitHub!
+## 👋 Hi, I'm Cristina Sofia Stemmer
 
 🔭 Atualmente estou me dedicando à uma formação para Desenvolvedor Full Stack Júnior.
 
