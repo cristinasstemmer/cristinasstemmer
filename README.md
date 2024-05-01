@@ -15,6 +15,7 @@
   <a href="https://github.com/cristinasstemmer/convoychat">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristinasstemmer&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
-</div>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,html,css&perline=10)](https://skillicons.dev) <img aling="center">
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,html,css&perline=10)](https://skillicons.dev) 
+
+</div>
