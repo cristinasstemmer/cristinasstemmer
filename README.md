@@ -1,3 +1,5 @@
+<div> <div align="center">
+  
 # 👋 Hi, I'm Cristina Sofia Stemmer 
 
 🔭 Atualmente estou me dedicando à uma formação de Desenvolvedor Full Stack Júnior.
