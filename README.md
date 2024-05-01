@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cristina Sofia Stemmer
 
-🔭 Atualmente estou me dedicando à uma formação para Desenvolvedor Full Stack Júnior.
+🔭 Atualmente estou me dedicando à uma formação de Desenvolvedor Full Stack Júnior.
 
 🌱 Estou aprendendo Java, React.
 
