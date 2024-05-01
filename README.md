@@ -4,9 +4,9 @@
 
 🔭 Atualmente estou me dedicando à uma formação de Desenvolvedor Full Stack Júnior.
 
-🌱 Estou aprendendo Java, React.
-
 📚 Curso Graduação Tecnológica em Análise e Desenvolvimento de Sistemas.
+
+🌱 Estou aprendendo Java, React.
 
 </div>
 
