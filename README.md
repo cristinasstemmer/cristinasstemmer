@@ -13,6 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,html,css&perline=10)](https://skillicons.dev) <img aling="center">
 
+</div>
+
 <div align="center">
   
-</div>
