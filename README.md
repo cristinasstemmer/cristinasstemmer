@@ -2,13 +2,15 @@
   
 # 👋 Hi, I'm Cristina Sofia Stemmer 
 
+<br>
+
 🔭 Atualmente estou me dedicando à uma formação de Desenvolvedor Full Stack Júnior.
 
 📚 Curso Graduação Tecnológica em Análise e Desenvolvimento de Sistemas.
 
 🌱 Estou aprendendo Java, React.
 
-</div>
+</div> <br>
 
 <div style="width:800px; margin:0 auto;"> <div align="center">
   <a href="https://github.com/cristinasstemmer/github-readme-stats">
@@ -17,7 +19,7 @@
   <a href="https://github.com/cristinasstemmer/convoychat">
       <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristinasstemmer&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,html,css&perline=10)](https://skillicons.dev) 
+  
+<br> <br> [![My Skills](https://skillicons.dev/icons?i=java,js,ts,nodejs,html,css&perline=10)](https://skillicons.dev) 
 
 </div>
