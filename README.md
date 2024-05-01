@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Cristina Sofia Stemmer
+# 👋 Hi, I'm Cristina Sofia Stemmer 
+<text align="center">
 
 🔭 Atualmente estou me dedicando à uma formação de Desenvolvedor Full Stack Júnior.
 
