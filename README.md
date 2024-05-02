@@ -1,6 +1,6 @@
 <div> <div align="center">
   
-# 🌟 Hi, I'm Cristina Sofia Stemmer 
+##🌟 Hi, I'm Cristina Sofia Stemmer 
 
 <br>
 
