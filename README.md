@@ -1,7 +1,7 @@
 # 🌟 Hi, I'm Cristina Sofia Stemmer 
 > "Leave this world a little better than you found it." | Robert Baden-Powell
 
-## 📚 Current Graduating 
+## 📚 Current Graduation
 Graduação Tecnológica em Análise e Desenvolvimento de Sistemas | Technological Degree in Systems Analysis and Development
 
 ## 🌱 Currently Learning
