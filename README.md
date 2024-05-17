@@ -2,7 +2,7 @@
 > "Leave this world a little better than you found it." | Robert Baden-Powell
 
 ## 📚 Current Graduation
-Graduação Tecnológica em Análise e Desenvolvimento de Sistemas | Technology Degree in Systems Analysis and Development
+Graduação Tecnológica em Análise e Desenvolvimento de Sistemas | Technologist Degree in Systems Analysis and Development
 
 ## 🌱 Currently Learning
 ![enter image description here](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
