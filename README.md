@@ -9,7 +9,7 @@ Graduação Tecnológica em Análise e Desenvolvimento de Sistemas | Technologis
 ![enter image description here](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge) 
 ![enter image description here](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 ) 
-![enter image description here](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 🔭 Techs 
 ![enter image description here](https://camo.githubusercontent.com/a1f9d42b968ae8d5e7e085d29e41d554deea0a172d570d9367fca4a6c3936ec7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d626c61636b)
